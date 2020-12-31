@@ -1,6 +1,7 @@
 # bert-chinese-ner
 
 ## 前言
+## 代码中没有使用crf进做ner,仅使用简单的标签分类
 
 使用预训练语言模型BERT做中文NER尝试，fine - tune BERT模型
 
